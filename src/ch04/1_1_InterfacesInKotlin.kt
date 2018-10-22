@@ -1,4 +1,9 @@
-package ch04.ex4_1_InterfacesKotlin
+package ch04.ex1_1_1_InterfacesInKotlin
+
+/*
+리스트 4.1
+코틀린 인터페이스
+*/
 
 interface Clickable {
     fun click()
