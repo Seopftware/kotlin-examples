@@ -381,7 +381,6 @@ fun main(args: Array<String>) {
     val cset = CountingSet<Int>()
     cset.addAll(listOf(1, 1, 2))
     println("${cset.objectsAdded} objects were added, ${cset.size} remain")
-    // 3 objects were added, 2 remain
 }
 ```
 CountingSet 함수는 MutableCollection을 상속받으나, innerSet에 해당 구현을 위임한다.
