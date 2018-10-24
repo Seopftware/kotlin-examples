@@ -12,46 +12,6 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
-      <file leaf-file-name="5_1_SealedClassesDefiningRestrictedClassHierachies.kt" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/ch04/4.1/5_1_SealedClassesDefiningRestrictedClassHierachies.kt">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="68" lean-forward="false" selection-start-line="0" selection-start-column="68" selection-end-line="0" selection-end-column="68" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="5_2_SealedClassesDefiningRestrictedClassHierarchies1.kt" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/ch04/4.1/5_2_SealedClassesDefiningRestrictedClassHierarchies1.kt">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="69" lean-forward="false" selection-start-line="0" selection-start-column="69" selection-end-line="0" selection-end-column="69" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="1_1_InitializingClassesPrimaryConstructorAndInitializerBlocks.kt" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/ch04/4.2/1_1_InitializingClassesPrimaryConstructorAndInitializerBlocks.kt">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="46">
-              <caret line="2" column="32" lean-forward="false" selection-start-line="2" selection-start-column="32" selection-end-line="2" selection-end-column="32" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="1_2_InitializingClassesPrimaryConstructorAndInitializerBlocks1.kt" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/ch04/4.2/1_2_InitializingClassesPrimaryConstructorAndInitializerBlocks1.kt">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="161">
-              <caret line="7" column="0" lean-forward="false" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="1_5_InitializingClassesPrimaryConstructorAndInitializerBlocks4.kt" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/ch04/4.2/1_5_InitializingClassesPrimaryConstructorAndInitializerBlocks4.kt">
           <provider selected="true" editor-type-id="text-editor">
@@ -92,11 +52,51 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="3_ClassDelegationUsingTheBykeyword.kt" pinned="false" current-in-tab="true">
+      <file leaf-file-name="3_ClassDelegationUsingTheBykeyword.kt" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/ch04/4.3/3_ClassDelegationUsingTheBykeyword.kt">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="414">
               <caret line="18" column="0" lean-forward="true" selection-start-line="18" selection-start-column="0" selection-end-line="18" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="1_1_ObjectDeclarationsSingletonsMadeEasy.kt" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/ch04/4.4/1_1_ObjectDeclarationsSingletonsMadeEasy.kt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="345">
+              <caret line="15" column="1" lean-forward="true" selection-start-line="15" selection-start-column="1" selection-end-line="15" selection-end-column="1" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="1_2_ObjectDeclarationSingletonsMadeEasy.kt" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/ch04/4.4/1_2_ObjectDeclarationSingletonsMadeEasy.kt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="253">
+              <caret line="11" column="19" lean-forward="false" selection-start-line="11" selection-start-column="19" selection-end-line="11" selection-end-column="19" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="2_1_CompanionObjectsAPlaceForFactoryMethodAndStaticMembers.kt" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/ch04/4.4/2_1_CompanionObjectsAPlaceForFactoryMethodAndStaticMembers.kt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="46">
+              <caret line="2" column="0" lean-forward="false" selection-start-line="2" selection-start-column="0" selection-end-line="12" selection-end-column="1" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="2_2_CompanionObjectsAPlaceForFactoryMethodsAndStaticMembers1.kt" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/ch04/4.4/2_2_CompanionObjectsAPlaceForFactoryMethodsAndStaticMembers1.kt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="46">
+              <caret line="2" column="0" lean-forward="false" selection-start-line="2" selection-start-column="0" selection-end-line="18" selection-end-column="1" />
               <folding />
             </state>
           </provider>
@@ -176,6 +176,10 @@
         <option value="$PROJECT_DIR$/src/ch04/4.3/1_2_2_ObjectEqualityEquals1.kt" />
         <option value="$PROJECT_DIR$/src/ch04/4.3/2_1_DataClassesAndImmutabilityTheCopyMethod.kt" />
         <option value="$PROJECT_DIR$/src/ch04/4.3/3_ClassDelegationUsingTheBykeyword.kt" />
+        <option value="$PROJECT_DIR$/src/ch04/4.4/1_1_ObjectDeclarationsSingletonsMadeEasy.kt" />
+        <option value="$PROJECT_DIR$/src/ch04/4.4/1_2_ObjectDeclarationSingletonsMadeEasy.kt" />
+        <option value="$PROJECT_DIR$/src/ch04/4.4/2_1_CompanionObjectsAPlaceForFactoryMethodAndStaticMembers.kt" />
+        <option value="$PROJECT_DIR$/src/ch04/4.4/2_2_CompanionObjectsAPlaceForFactoryMethodsAndStaticMembers1.kt" />
       </list>
     </option>
   </component>
@@ -229,7 +233,7 @@
               <item name="Kotlin_example" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="ch04" type="462c0819:PsiDirectoryNode" />
-              <item name="4.3" type="462c0819:PsiDirectoryNode" />
+              <item name="4.4" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="Kotlin_example" type="b2602c69:ProjectViewProjectNode" />
@@ -280,7 +284,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Kotlin.ch04.ex3_2_1_DataClassesAndImmutabilityTheCopyMethod._2_1_DataClassesAndImmutabilityTheCopyMethodKt">
+  <component name="RunManager" selected="Kotlin.ch04.ex4_2_2_CompanionObjectsAPlaceForFactoryMethodsAndStaticMembers1._2_2_CompanionObjectsAPlaceForFactoryMethodsAndStaticMembers1Kt">
     <configuration default="true" type="Applet" factoryName="Applet">
       <option name="HTML_USED" value="false" />
       <option name="WIDTH" value="400" />
@@ -322,42 +326,6 @@
       <envs />
       <patterns />
     </configuration>
-    <configuration name="ch04.ex2_1_5_InitializingClassesPrimaryConstructorAndInitializerBlocks3._1_5_InitializingClassesPrimaryConstructorAndInitializerBlocks4Kt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
-      <option name="MAIN_CLASS_NAME" value="ch04.ex2_1_5_InitializingClassesPrimaryConstructorAndInitializerBlocks3._1_5_InitializingClassesPrimaryConstructorAndInitializerBlocks4Kt" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="WORKING_DIRECTORY" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <module name="Kotlin_example" />
-      <envs />
-    </configuration>
-    <configuration name="ch04.ex3_1_1_StringRepresentationToString._1_1_StringRepresentationToStringKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
-      <option name="MAIN_CLASS_NAME" value="ch04.ex3_1_1_StringRepresentationToString._1_1_StringRepresentationToStringKt" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="WORKING_DIRECTORY" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <module name="Kotlin_example" />
-      <envs />
-    </configuration>
-    <configuration name="ch04.ex3_1_2_1_ObjectEqualityEquals._1_2_1_ObjectEqualityEqualsKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
-      <option name="MAIN_CLASS_NAME" value="ch04.ex3_1_2_1_ObjectEqualityEquals._1_2_1_ObjectEqualityEqualsKt" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="WORKING_DIRECTORY" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <module name="Kotlin_example" />
-      <envs />
-    </configuration>
     <configuration name="ch04.ex3_1_2_2_ObjectEqualityEquals1._1_2_2_ObjectEqualityEquals1Kt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
       <option name="MAIN_CLASS_NAME" value="ch04.ex3_1_2_2_ObjectEqualityEquals1._1_2_2_ObjectEqualityEquals1Kt" />
@@ -373,6 +341,42 @@
     <configuration name="ch04.ex3_2_1_DataClassesAndImmutabilityTheCopyMethod._2_1_DataClassesAndImmutabilityTheCopyMethodKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
       <option name="MAIN_CLASS_NAME" value="ch04.ex3_2_1_DataClassesAndImmutabilityTheCopyMethod._2_1_DataClassesAndImmutabilityTheCopyMethodKt" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="Kotlin_example" />
+      <envs />
+    </configuration>
+    <configuration name="ch04.ex4_1_1_ObjectDeclarationsSingletonsMadeEasy._1_1_ObjectDeclarationsSingletonsMadeEasyKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="MAIN_CLASS_NAME" value="ch04.ex4_1_1_ObjectDeclarationsSingletonsMadeEasy._1_1_ObjectDeclarationsSingletonsMadeEasyKt" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="Kotlin_example" />
+      <envs />
+    </configuration>
+    <configuration name="ch04.ex4_2_1_CompanionObjectsAPlaceForFactoryMethodsAndStaticMembers._2_1_CompanionObjectsAPlaceForFactoryMethodAndStaticMembersKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="MAIN_CLASS_NAME" value="ch04.ex4_2_1_CompanionObjectsAPlaceForFactoryMethodsAndStaticMembers._2_1_CompanionObjectsAPlaceForFactoryMethodAndStaticMembersKt" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="Kotlin_example" />
+      <envs />
+    </configuration>
+    <configuration name="ch04.ex4_2_2_CompanionObjectsAPlaceForFactoryMethodsAndStaticMembers1._2_2_CompanionObjectsAPlaceForFactoryMethodsAndStaticMembers1Kt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="MAIN_CLASS_NAME" value="ch04.ex4_2_2_CompanionObjectsAPlaceForFactoryMethodsAndStaticMembers1._2_2_CompanionObjectsAPlaceForFactoryMethodsAndStaticMembers1Kt" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" />
@@ -423,19 +427,19 @@
       <predefined_log_file id="idea.log" enabled="true" />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Kotlin.ch04.ex2_1_5_InitializingClassesPrimaryConstructorAndInitializerBlocks3._1_5_InitializingClassesPrimaryConstructorAndInitializerBlocks4Kt" />
-      <item index="1" class="java.lang.String" itemvalue="Kotlin.ch04.ex3_1_1_StringRepresentationToString._1_1_StringRepresentationToStringKt" />
-      <item index="2" class="java.lang.String" itemvalue="Kotlin.ch04.ex3_1_2_1_ObjectEqualityEquals._1_2_1_ObjectEqualityEqualsKt" />
-      <item index="3" class="java.lang.String" itemvalue="Kotlin.ch04.ex3_1_2_2_ObjectEqualityEquals1._1_2_2_ObjectEqualityEquals1Kt" />
-      <item index="4" class="java.lang.String" itemvalue="Kotlin.ch04.ex3_2_1_DataClassesAndImmutabilityTheCopyMethod._2_1_DataClassesAndImmutabilityTheCopyMethodKt" />
+      <item index="0" class="java.lang.String" itemvalue="Kotlin.ch04.ex3_1_2_2_ObjectEqualityEquals1._1_2_2_ObjectEqualityEquals1Kt" />
+      <item index="1" class="java.lang.String" itemvalue="Kotlin.ch04.ex3_2_1_DataClassesAndImmutabilityTheCopyMethod._2_1_DataClassesAndImmutabilityTheCopyMethodKt" />
+      <item index="2" class="java.lang.String" itemvalue="Kotlin.ch04.ex4_1_1_ObjectDeclarationsSingletonsMadeEasy._1_1_ObjectDeclarationsSingletonsMadeEasyKt" />
+      <item index="3" class="java.lang.String" itemvalue="Kotlin.ch04.ex4_2_1_CompanionObjectsAPlaceForFactoryMethodsAndStaticMembers._2_1_CompanionObjectsAPlaceForFactoryMethodAndStaticMembersKt" />
+      <item index="4" class="java.lang.String" itemvalue="Kotlin.ch04.ex4_2_2_CompanionObjectsAPlaceForFactoryMethodsAndStaticMembers1._2_2_CompanionObjectsAPlaceForFactoryMethodsAndStaticMembers1Kt" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Kotlin.ch04.ex3_2_1_DataClassesAndImmutabilityTheCopyMethod._2_1_DataClassesAndImmutabilityTheCopyMethodKt" />
-        <item index="1" class="java.lang.String" itemvalue="Kotlin.ch04.ex3_1_2_2_ObjectEqualityEquals1._1_2_2_ObjectEqualityEquals1Kt" />
-        <item index="2" class="java.lang.String" itemvalue="Kotlin.ch04.ex3_1_1_StringRepresentationToString._1_1_StringRepresentationToStringKt" />
-        <item index="3" class="java.lang.String" itemvalue="Kotlin.ch04.ex3_1_2_1_ObjectEqualityEquals._1_2_1_ObjectEqualityEqualsKt" />
-        <item index="4" class="java.lang.String" itemvalue="Kotlin.ch04.ex2_1_5_InitializingClassesPrimaryConstructorAndInitializerBlocks3._1_5_InitializingClassesPrimaryConstructorAndInitializerBlocks4Kt" />
+        <item index="0" class="java.lang.String" itemvalue="Kotlin.ch04.ex4_2_2_CompanionObjectsAPlaceForFactoryMethodsAndStaticMembers1._2_2_CompanionObjectsAPlaceForFactoryMethodsAndStaticMembers1Kt" />
+        <item index="1" class="java.lang.String" itemvalue="Kotlin.ch04.ex4_2_1_CompanionObjectsAPlaceForFactoryMethodsAndStaticMembers._2_1_CompanionObjectsAPlaceForFactoryMethodAndStaticMembersKt" />
+        <item index="2" class="java.lang.String" itemvalue="Kotlin.ch04.ex4_1_1_ObjectDeclarationsSingletonsMadeEasy._1_1_ObjectDeclarationsSingletonsMadeEasyKt" />
+        <item index="3" class="java.lang.String" itemvalue="Kotlin.ch04.ex3_2_1_DataClassesAndImmutabilityTheCopyMethod._2_1_DataClassesAndImmutabilityTheCopyMethodKt" />
+        <item index="4" class="java.lang.String" itemvalue="Kotlin.ch04.ex3_1_2_2_ObjectEqualityEquals1._1_2_2_ObjectEqualityEquals1Kt" />
       </list>
     </recent_temporary>
   </component>
@@ -455,12 +459,12 @@
       <workItem from="1539847146354" duration="1516000" />
       <workItem from="1539932025341" duration="176000" />
       <workItem from="1540184597017" duration="12502000" />
-      <workItem from="1540347548038" duration="2917000" />
+      <workItem from="1540347548038" duration="6003000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="17111000" />
+    <option name="totallyTimeSpent" value="20197000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="0" width="976" height="1038" extended-state="0" />
@@ -784,6 +788,38 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="414">
           <caret line="18" column="0" lean-forward="true" selection-start-line="18" selection-start-column="0" selection-end-line="18" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ch04/4.4/1_1_ObjectDeclarationsSingletonsMadeEasy.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="345">
+          <caret line="15" column="1" lean-forward="true" selection-start-line="15" selection-start-column="1" selection-end-line="15" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ch04/4.4/1_2_ObjectDeclarationSingletonsMadeEasy.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="253">
+          <caret line="11" column="19" lean-forward="false" selection-start-line="11" selection-start-column="19" selection-end-line="11" selection-end-column="19" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ch04/4.4/2_1_CompanionObjectsAPlaceForFactoryMethodAndStaticMembers.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="46">
+          <caret line="2" column="0" lean-forward="false" selection-start-line="2" selection-start-column="0" selection-end-line="12" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ch04/4.4/2_2_CompanionObjectsAPlaceForFactoryMethodsAndStaticMembers1.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="46">
+          <caret line="2" column="0" lean-forward="false" selection-start-line="2" selection-start-column="0" selection-end-line="18" selection-end-column="1" />
           <folding />
         </state>
       </provider>
