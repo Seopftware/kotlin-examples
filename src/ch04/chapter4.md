@@ -92,18 +92,20 @@ interface Clickable {
 
 open class RichButton : Clickable { // 다른 클래스가 상속 받을 수 있음
 
-	fun disable() {}
+	fun disable() {} // 1
     
-	open fun animate() {}
+	open fun animate() {} // 2
   	
-   	override fun click() {}
+   	override fun click() {} // 3
 
 }
 ```
 
-자식 클래스가 override 할 수 없다.
-자식 클래스가 override 할 수 있다.
-자식 클래스가 또 다시 override 할 수 있다. (override 함수는 기본값이 open이다.)
+(1)자식 클래스가 override 할 수 없다.
+
+(2)자식 클래스가 override 할 수 있다.
+
+(3)자식 클래스가 또 다시 override 할 수 있다. (override 함수는 기본값이 open이다.)
 
 만약, override한 함수를 자식 클래스에서 다시 override하지 못하게 하려면? 앞에 final을 붙여준다.
 
